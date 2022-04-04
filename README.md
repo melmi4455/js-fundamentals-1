@@ -23,8 +23,8 @@
 11. Lets saying Ahmed is looking for a new country to leave in. He wantes to live in a country with a population less than 50 million and is not on the coast. Write a if statement to help Ahmed see if your country fits the conditions
 12. If your country is the right country log a string like this: *'you should live in YOURCOUNTRY!'* if not log *'YOURCOUNTRY does not meet your criteria :('*  (NOTE: if your country doesnt meet the criteria change some variables to make sure the codition is working properly)
 
-## Switch Statements 
-13.  User a switch statement to log the followning string for the given 'language':
+## If & else Statements 
+13.  Usee an if & else statements to log the followning string for the given 'language':
 **chinese or mandarin:** 'MOST number of native speakers'
 **spanish:** '2nd place in number of native speakers'
 **english:** '3rd place'
