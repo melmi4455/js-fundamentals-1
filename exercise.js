@@ -3,19 +3,6 @@
 
 
 
-// let bill=500
-
-// tip1=bill*0.15
-// tip2=bill*0.20
-
-
-// if (bill>50 && bill<300) {
-//     console.log(`The bill is ${bill} , the tip is ${tip1} , and the total is  ${bill + tip1}`)
-// }
-
-// else if (bill>300) {
-//     console.log(`The bill is ${bill} , the tip is ${tip1} , and the total is  ${bill + tip2}`)
-// }
 
 
 
@@ -70,9 +57,9 @@ else {
     console.log(`${Country} does not fit into your criteria`)
 }
 
-let givenLanguage= "english"
+let givenLanguage= "chinese"
 
-if(givenLanguage==="chinese or mangarin") {
+if(givenLanguage=== "chinese" || givenLanguage=== "mangarin") {
     console.log("most number of native speakers")
 }
 else if (givenLanguage==="spanish") {
